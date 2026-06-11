@@ -1,0 +1,16 @@
+
+.env
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+faiss_index/
+*.faiss
+*.pkl
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
